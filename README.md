@@ -2,7 +2,7 @@
 
 This project provides a real-time remote control interface for a Raspberry Pi-based robotic system. It captures local keyboard inputs and transmits serialized command packets over a low-latency UDP network connection.
 
-**Collaboration Note:** This codebase was developed in collaboration with AI to optimize real-time performance, multi-threaded input handling, and protocol reliability.
+**Collaboration Note:** This codebase was developed to optimize real-time performance, multi-threaded input handling, and protocol reliability.
 
 ## 🚀 Features
 * **Low-Latency Control:** Utilizes UDP socket programming for high-speed communication between the host and the robot.
